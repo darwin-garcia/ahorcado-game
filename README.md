@@ -5,7 +5,7 @@ El proyecto es un juego con interfaz web. Puedes ejecutarlo desde cualquier nave
 
 Las reglas del juego consiste en escribir cualquier letra del alfabeto (No se admiten numeros ni caracteres especiales del teclado)
 <ul>
-<li>Tienes 7 intentos antes de finalizar el juego.</li>
+<li>Tienes 7 intentos antes de finalizar el juego. Hasta que se complete el dibujo.</li>
 <li>Las palabras guardadas por defecto son: 'ALURA', 'ORACLE', 'PROGRAMA'.</li>
 <li>Puedes guardar cualquier palabra en el juego.</li>
 </ul>
@@ -18,9 +18,13 @@ Las reglas del juego consiste en escribir cualquier letra del alfabeto (No se ad
 
 Todos los archivos contienen la siguiente estructura. Se puede ejecutar localmente en la computadora **offline!**
 <ul>
-<li>📄 codigo.js</li>
-<li>📄 estilo.css</li>
-<li>📄 inicio.html</li>
+<li>📁 CSS</li>
+<li>📁 Scripts</li>
+  <ul>
+    <li>📄 juego.js</li>
+    <li>📄 texto.js</li>
+    <li>📄 textointro.js</li>
+<li>📄 index.html</li>
 </ul>
 
 
