@@ -24,6 +24,7 @@ Todos los archivos contienen la siguiente estructura. Se puede ejecutar localmen
     <li>📄 juego.js</li>
     <li>📄 texto.js</li>
     <li>📄 textointro.js</li>
+  </ul>
 <li>📄 index.html</li>
 </ul>
 
